@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0,
+        "name": "admin",
+        "password": "123456",
+        "ip": "localhost:5000",
+        "customType": {},
+        "TPs": []
+    }
+]
